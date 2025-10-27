@@ -16,4 +16,4 @@ Follow instructions to download and set up
 
 
 # Disclaimer
-Oxis is for educational and entertainment purposes. Use responsibly and respect platform rules. We are not liable for misuse.
+Oxis is for educational and entertainment purposes. Use responsibly and respect platform rules. We are not liable for misuse..
