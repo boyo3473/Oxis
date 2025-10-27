@@ -14,8 +14,6 @@ Join our server: https://discord.gg/fkQpWe6TWa
 Follow instructions to download and set up
 
 
-# Community
-Join our Discord for updates, support, and to connect with other CS2 players: https://discord.gg/fkQpWe6TWa
 
 # Disclaimer
 Oxis is for educational and entertainment purposes. Use responsibly and respect platform rules. We are not liable for misuse.
